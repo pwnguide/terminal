@@ -8,4 +8,4 @@ View pwn.guide tutorials in your terminal!
 - Select a free tutorial (*using keyboard keys up and down or by typing a number*)
 
 # Demo
-<video src="https://files.catbox.moe/8202cb.mp4">
+https://files.catbox.moe/8202cb.mp4
